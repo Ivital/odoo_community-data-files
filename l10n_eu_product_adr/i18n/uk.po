@@ -1,0 +1,149 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 18.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-10-05 05:39+0000\n"
+"Last-Translator: Ivital <Ivital@users.noreply.github.com>\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. module: l10n_eu_product_adr
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_label__goods_ids
+msgid "ADR Goods"
+msgstr "Вантажі ADR"
+
+#. module: l10n_eu_product_adr
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_stock_move__adr_points
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_stock_picking__adr_points
+msgid "ADR Points"
+msgstr "Бали ADR"
+
+#. module: l10n_eu_product_adr
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_goods__active
+#: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.adr_goods_view_search
+msgid "Active"
+msgstr "Активний"
+
+#. module: l10n_eu_product_adr
+#: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.adr_goods_view_form
+msgid "Archived"
+msgstr "Архівовано"
+
+#. module: l10n_eu_product_adr
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_goods__class_id
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_label__class_id
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_product__adr_class_id
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_template__adr_class_id
+#: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.adr_goods_view_search
+msgid "Class"
+msgstr "Клас"
+
+#. module: l10n_eu_product_adr
+#: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.adr_goods_view_form
+#: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.product_template_form_view
+msgid "Classification"
+msgstr "Класифікація"
+
+#. module: l10n_eu_product_adr
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_class__code
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_label__code
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_packing_instruction__code
+msgid "Code"
+msgstr "Код"
+
+#. module: l10n_eu_product_adr
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_class__create_uid
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_goods__create_uid
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_label__create_uid
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_packing_instruction__create_uid
+msgid "Created by"
+msgstr "Створив"
+
+#. module: l10n_eu_product_adr
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_class__create_date
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_goods__create_date
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_label__create_date
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_packing_instruction__create_date
+msgid "Created on"
+msgstr "Створено"
+
+#. module: l10n_eu_product_adr
+#: model:ir.actions.act_window,name:l10n_eu_product_adr.adr_goods_action
+#: model:ir.model,name:l10n_eu_product_adr.model_adr_goods
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_product__adr_goods_id
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_template__adr_goods_id
+#: model:ir.ui.menu,name:l10n_eu_product_adr.adr_goods_menu
+#: model:ir.ui.menu,name:l10n_eu_product_adr.adr_main_menu
+#: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.product_template_form_view
+msgid "Dangerous Goods"
+msgstr "Небезпечні вантажі"
+
+#. module: l10n_eu_product_adr
+#: model:ir.actions.act_window,name:l10n_eu_product_adr.adr_class_action
+#: model:ir.ui.menu,name:l10n_eu_product_adr.adr_class_menu
+msgid "Dangerous Goods Classes"
+msgstr "Класи небезпечних вантажів"
+
+#. module: l10n_eu_product_adr
+#: model:ir.actions.act_window,name:l10n_eu_product_adr.adr_label_action
+#: model:ir.ui.menu,name:l10n_eu_product_adr.adr_label_menu
+msgid "Dangerous Goods Labels"
+msgstr "Етикетки небезпечних вантажів"
+
+#. module: l10n_eu_product_adr
+#: model:ir.actions.act_window,name:l10n_eu_product_adr.adr_packing_instruction_action
+#: model:ir.ui.menu,name:l10n_eu_product_adr.adr_packing_instruction_menu
+msgid "Dangerous Goods Packing Instructions"
+msgstr "Інструкції з пакування небезпечних вантажів"
+
+#. module: l10n_eu_product_adr
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_class__display_name
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_goods__display_name
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_label__display_name
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_packing_instruction__display_name
+msgid "Display Name"
+msgstr "Відображувана назва"
+
+#. module: l10n_eu_product_adr
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_label__image
+msgid "Image"
+msgstr "Зображення"
+
+#. module: l10n_eu_product_adr
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_product__is_dangerous
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_template__is_dangerous
+msgid "Is Dangerous"
+msgstr "Небезпечний"
+
+#. module: l10n_eu_product_adr
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_goods__label_ids
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_product__adr_label_ids
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_template__adr_label_ids
+#: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.adr_goods_view_form
+#: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.product_template_form_view
+msgid "Labels"
+msgstr "Мітки"
+
+#. module: l10n_eu_product_adr
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_class__name
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_label__name
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_packing_instruction__name
+msgid "Name"
+msgstr "Назва"
+
+#. module: l10n_eu_product_adr
+#: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.adr_goods_view_form
+#: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.product_template_form_view
+msgid "Transport"
+msgstr "Транспорт"
+
+#. module: l10n_eu_product_adr
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_goods__un_number
+msgid "UN Number"
+msgstr "Номер ООН"
