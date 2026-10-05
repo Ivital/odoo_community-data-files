@@ -1787,3 +1787,43 @@ msgstr "ПОРОШОК ЦИНКУ або ЦИНКОВИЙ ПИЛ"
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2008_S4_4dot2_524/540_P410/IBC06_2
 msgid "ZIRCONIUM POWDER, DRY"
 msgstr "ПОРОШОК ЦИРКОНІЮ, СУХИЙ"
+
+#. module: l10n_eu_product_adr
+#. odoo-python
+#: code:addons/l10n_eu_product_adr/models/adr_label.py:0
+msgid ""
+"Dangerous Goods Label %(label)s cannot be deleted because it is in use on "
+"one or more dangerous goods: %(labels)s"
+msgstr ""
+"Мітку небезпечного вантажу %(label)s не можна видалити, оскільки вона "
+"використовується в одному або кількох небезпечних вантажах: %(labels)s"
+
+#. module: l10n_eu_product_adr
+#. odoo-python
+#: code:addons/l10n_eu_product_adr/models/product_template.py:0
+msgid ""
+"There are different dangerous goods configured on this product's variant, so"
+" you cannot update the dangerous goods from here. Please reconfigure each "
+"variant separately."
+msgstr ""
+"Для варіантів цього товару налаштовано різні небезпечні вантажі, тому тут "
+"неможливо оновити дані про небезпечні вантажі. Налаштуйте кожен варіант "
+"окремо."
+
+#. module: l10n_eu_product_adr
+#. odoo-python
+#: code:addons/l10n_eu_product_adr/models/adr_goods.py:0
+msgid "UN Number %s is invalid because it does not have a length of 4."
+msgstr "Номер ООН %s недійсний, оскільки його довжина не дорівнює 4."
+
+#. module: l10n_eu_product_adr
+#. odoo-python
+#: code:addons/l10n_eu_product_adr/models/adr_goods.py:0
+msgid "cat:%s"
+msgstr "кат.:%s"
+
+#. module: l10n_eu_product_adr
+#. odoo-python
+#: code:addons/l10n_eu_product_adr/models/adr_goods.py:0
+msgid "qty:%(limited_quantity)s %(limited_quantity_uom_id)s"
+msgstr "кількість:%(limited_quantity)s %(limited_quantity_uom_id)s"

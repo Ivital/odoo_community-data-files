@@ -65,3 +65,9 @@ msgstr ""
 #: model:ir.model,name:l10n_eu_nace.model_res_partner_industry_eu_nace_wizard
 msgid "Partner Industry by EU NACE Wizard"
 msgstr "Майстер галузі партнера за EU NACE"
+
+#. module: l10n_eu_nace
+#. odoo-python
+#: code:addons/l10n_eu_nace/wizard/res_partner_industry_eu_nace_wizard.py:0
+msgid "Partner Industries by EU NACE"
+msgstr "Галузі партнерів за EU NACE"

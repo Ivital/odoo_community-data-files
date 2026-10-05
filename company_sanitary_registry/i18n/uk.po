@@ -87,3 +87,9 @@ msgstr "Санітарний реєстр"
 #: model:ir.model,name:company_sanitary_registry.model_sanitary_registry_warehouse_category
 msgid "Sanitary Registry Warehouse Category"
 msgstr "Категорія складу санітарного реєстру"
+
+#. module: company_sanitary_registry
+#. odoo-python
+#: code:addons/company_sanitary_registry/models/sanitary_registry.py:0
+msgid "There are already sanitary registrations with values %s."
+msgstr "Санітарні реєстрації зі значеннями %s уже існують."
