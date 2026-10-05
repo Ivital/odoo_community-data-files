@@ -179,3 +179,48 @@ msgstr "Екологічно небезпечний"
 #: model:ir.model.fields,field_description:l10n_eu_product_adr_dangerous_goods.field_product_product__hazard_ind
 msgid "Hazard identification"
 msgstr "Ідентифікація небезпеки"
+
+#. module: l10n_eu_product_adr_dangerous_goods
+#: model:ir.model,name:l10n_eu_product_adr_dangerous_goods.model_dangerous_uom
+msgid "Dangerous UOM"
+msgstr "Небезпечна ОВ"
+
+#. module: l10n_eu_product_adr_dangerous_goods
+#: model:ir.model,name:l10n_eu_product_adr_dangerous_goods.model_storage_class
+msgid "Storage class"
+msgstr "Клас зберігання"
+
+#. module: l10n_eu_product_adr_dangerous_goods
+#: model:ir.model,name:l10n_eu_product_adr_dangerous_goods.model_wgk_class
+msgid "WGK class"
+msgstr "Клас WGK"
+
+#. module: l10n_eu_product_adr_dangerous_goods
+#: model:dangerous.uom,name:l10n_eu_product_adr_dangerous_goods.dangerous_uom_3
+msgid "g (Gramm)"
+msgstr "г (грам)"
+
+#. module: l10n_eu_product_adr_dangerous_goods
+#: model:dangerous.uom,name:l10n_eu_product_adr_dangerous_goods.dangerous_uom_2
+msgid "kg (Kilogramm)"
+msgstr "кг (кілограм)"
+
+#. module: l10n_eu_product_adr_dangerous_goods
+#: model:dangerous.uom,name:l10n_eu_product_adr_dangerous_goods.dangerous_uom_1
+msgid "l (Liter)"
+msgstr "л (літр)"
+
+#. module: l10n_eu_product_adr_dangerous_goods
+#: model:storage.temp,name:l10n_eu_product_adr_dangerous_goods.storage_temp_2
+msgid "over 25°C"
+msgstr "понад 25°C"
+
+#. module: l10n_eu_product_adr_dangerous_goods
+#: model:storage.temp,name:l10n_eu_product_adr_dangerous_goods.storage_temp_1
+msgid "to 25°C"
+msgstr "до 25°C"
+
+#. module: l10n_eu_product_adr_dangerous_goods
+#: model:storage.temp,name:l10n_eu_product_adr_dangerous_goods.storage_temp_3
+msgid "to 30°C"
+msgstr "до 30°C"

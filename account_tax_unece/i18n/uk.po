@@ -64,3 +64,30 @@ msgstr "Коди причин звільнення від ПДВ"
 #: model_terms:ir.ui.view,arch_db:account_tax_unece.unece_code_list_search
 msgid "VAT Exemption Reasons"
 msgstr "Причини звільнення від ПДВ"
+
+#. module: account_tax_unece
+#: model:ir.model.fields,help:account_tax_unece.field_account_tax__unece_categ_id
+msgid ""
+"Select the Tax Category Code of the official nomenclature of the United "
+"Nations Economic Commission for Europe (UNECE), DataElement 5305"
+msgstr ""
+"Виберіть код категорії податку з офіційної номенклатури Європейської "
+"економічної комісії ООН (UNECE), DataElement 5305."
+
+#. module: account_tax_unece
+#: model:ir.model.fields,help:account_tax_unece.field_account_tax__unece_type_id
+msgid ""
+"Select the Tax Type Code of the official nomenclature of the United Nations "
+"Economic Commission for Europe (UNECE), DataElement 5153"
+msgstr ""
+"Виберіть код типу податку з офіційної номенклатури Європейської економічної "
+"комісії ООН (UNECE), DataElement 5153."
+
+#. module: account_tax_unece
+#: model:ir.model.fields,help:account_tax_unece.field_account_tax__unece_vatex_id
+msgid ""
+"Select the VAT Exemption Reason Code (VATEX) of the official nomenclature of"
+" the European Union."
+msgstr ""
+"Виберіть код причини звільнення від ПДВ (VATEX) з офіційної номенклатури "
+"Європейського Союзу."

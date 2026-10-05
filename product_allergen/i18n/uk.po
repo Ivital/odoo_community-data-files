@@ -105,3 +105,68 @@ msgstr "Створіть свій перший алерген"
 #: model_terms:ir.actions.act_window,help:product_allergen.action_allergen_allergen
 msgid "Define allergens that can be associated with products."
 msgstr "Визначте алергени, які можна пов’язувати з товарами."
+
+#. module: product_allergen
+#: model:allergen.allergen,name:product_allergen.allergen_celery
+msgid "Celery"
+msgstr "Селера"
+
+#. module: product_allergen
+#: model:allergen.allergen,name:product_allergen.allergen_crustaceans
+msgid "Crustaceans"
+msgstr "Ракоподібні"
+
+#. module: product_allergen
+#: model:allergen.allergen,name:product_allergen.allergen_eggs
+msgid "Eggs"
+msgstr "Яйця"
+
+#. module: product_allergen
+#: model:allergen.allergen,name:product_allergen.allergen_fish
+msgid "Fish"
+msgstr "Риба"
+
+#. module: product_allergen
+#: model:allergen.allergen,name:product_allergen.allergen_gluten
+msgid "Gluten (Cereals containing gluten)"
+msgstr "Глютен (зернові, що містять глютен)"
+
+#. module: product_allergen
+#: model:allergen.allergen,name:product_allergen.allergen_lupin
+msgid "Lupin"
+msgstr "Люпин"
+
+#. module: product_allergen
+#: model:allergen.allergen,name:product_allergen.allergen_molluscs
+msgid "Molluscs"
+msgstr "Молюски"
+
+#. module: product_allergen
+#: model:allergen.allergen,name:product_allergen.allergen_mustard
+msgid "Mustard"
+msgstr "Гірчиця"
+
+#. module: product_allergen
+#: model:allergen.allergen,name:product_allergen.allergen_peanuts
+msgid "Peanuts"
+msgstr "Арахіс"
+
+#. module: product_allergen
+#: model:allergen.allergen,name:product_allergen.allergen_sesame
+msgid "Sesame seeds"
+msgstr "Кунжут"
+
+#. module: product_allergen
+#: model:allergen.allergen,name:product_allergen.allergen_soybeans
+msgid "Soybeans"
+msgstr "Соєві боби"
+
+#. module: product_allergen
+#: model:allergen.allergen,name:product_allergen.allergen_sulphites
+msgid "Sulphur dioxide and sulphites"
+msgstr "Діоксид сірки та сульфіти"
+
+#. module: product_allergen
+#: model:allergen.allergen,name:product_allergen.allergen_tree_nuts
+msgid "Tree nuts"
+msgstr "Деревні горіхи"

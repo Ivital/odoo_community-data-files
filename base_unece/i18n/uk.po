@@ -85,3 +85,13 @@ msgstr "Останнє оновлення"
 #: model_terms:ir.ui.view,arch_db:base_unece.unece_code_list_search
 msgid "Name or Code"
 msgstr "Назва або код"
+
+#. module: base_unece
+#: model:ir.model.constraint,message:base_unece.constraint_unece_code_list_type_code_uniq
+msgid "An UNECE code of the same type already exists"
+msgstr "Код UNECE такого самого типу вже існує"
+
+#. module: base_unece
+#: model:ir.model,name:base_unece.model_unece_code_list
+msgid "UNECE nomenclatures"
+msgstr "Номенклатури UNECE"

@@ -60,3 +60,8 @@ msgstr ""
 "Імпортувати галузі NACE з API ShowVoc. Будуть\n"
 "                        створені нові галузі або оновлені наявні разом із їхніми\n"
 "                        перекладами для всіх активних мов у системі."
+
+#. module: l10n_eu_nace
+#: model:ir.model,name:l10n_eu_nace.model_res_partner_industry_eu_nace_wizard
+msgid "Partner Industry by EU NACE Wizard"
+msgstr "Майстер галузі партнера за EU NACE"

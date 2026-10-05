@@ -22,3 +22,13 @@ msgstr "Код країни (3 літери)"
 #: model:ir.model.fields,field_description:base_iso3166.field_res_country__code_numeric
 msgid "Country Code (numeric)"
 msgstr "Код країни (числовий)"
+
+#. module: base_iso3166
+#: model:ir.model.fields,help:base_iso3166.field_res_country__code_alpha3
+msgid "ISO 3166-1 alpha-3 (three-letter) code for the country"
+msgstr "Трилітерний код країни ISO 3166-1 alpha-3"
+
+#. module: base_iso3166
+#: model:ir.model.fields,help:base_iso3166.field_res_country__code_numeric
+msgid "ISO 3166-1 numeric code for the country"
+msgstr "Числовий код країни ISO 3166-1"

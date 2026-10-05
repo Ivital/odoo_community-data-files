@@ -82,3 +82,8 @@ msgstr "Останнє оновлення"
 #: model:ir.model.fields,field_description:company_sanitary_registry.field_sanitary_registry_warehouse_category__sanitary_registry_id
 msgid "Sanitary Registry"
 msgstr "Санітарний реєстр"
+
+#. module: company_sanitary_registry
+#: model:ir.model,name:company_sanitary_registry.model_sanitary_registry_warehouse_category
+msgid "Sanitary Registry Warehouse Category"
+msgstr "Категорія складу санітарного реєстру"

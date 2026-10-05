@@ -35,3 +35,198 @@ msgstr "Техніка рибальства FAO"
 #: model:product.attribute.value,name:product_fao_fishing.fishing_technique_att_value_netting
 msgid "Netting"
 msgstr "Неттінг"
+
+#. module: product_fao_fishing
+#: model:product.attribute.value,name:product_fao_fishing.fao_fishing_area_1
+msgid "Africa - Inland waters"
+msgstr "Африка — внутрішні води"
+
+#. module: product_fao_fishing
+#: model:product.attribute.value,name:product_fao_fishing.fao_fishing_area_2
+msgid "America, North - Inland waters"
+msgstr "Америка, Північна — внутрішні води"
+
+#. module: product_fao_fishing
+#: model:product.attribute.value,name:product_fao_fishing.fao_fishing_area_3
+msgid "America, South - Inland waters"
+msgstr "Америка, Південна — внутрішні води"
+
+#. module: product_fao_fishing
+#: model:product.attribute.value,name:product_fao_fishing.fishing_technique_att_value_angling
+msgid "Angling"
+msgstr "Рибальство"
+
+#. module: product_fao_fishing
+#: model:product.attribute.value,name:product_fao_fishing.fao_fishing_area_98
+msgid "Antarctic areas nei"
+msgstr "Антарктичні райони, н.в."
+
+#. module: product_fao_fishing
+#: model:product.attribute.value,name:product_fao_fishing.fao_fishing_area_8
+msgid "Antarctica - Inland waters"
+msgstr "Антарктида — внутрішні води"
+
+#. module: product_fao_fishing
+#: model:product.attribute.value,name:product_fao_fishing.fishing_technique_att_value_aquaculture
+msgid "Aquaculture"
+msgstr "Аквакультура"
+
+#. module: product_fao_fishing
+#: model:product.attribute.value,name:product_fao_fishing.fao_fishing_area_18
+msgid "Arctic Sea"
+msgstr "Арктичне море"
+
+#. module: product_fao_fishing
+#: model:product.attribute.value,name:product_fao_fishing.fao_fishing_area_4
+msgid "Asia - Inland waters"
+msgstr "Азія — внутрішні води"
+
+#. module: product_fao_fishing
+#: model:product.attribute.value,name:product_fao_fishing.fao_fishing_area_48
+msgid "Atlantic, Antarctic"
+msgstr "Атлантика, Антарктика"
+
+#. module: product_fao_fishing
+#: model:product.attribute.value,name:product_fao_fishing.fao_fishing_area_34
+msgid "Atlantic, Eastern Central"
+msgstr "Атлантика, східна центральна частина"
+
+#. module: product_fao_fishing
+#: model:product.attribute.value,name:product_fao_fishing.fao_fishing_area_27
+msgid "Atlantic, Northeast"
+msgstr "Атлантика, північний схід"
+
+#. module: product_fao_fishing
+#: model:product.attribute.value,name:product_fao_fishing.fao_fishing_area_21
+msgid "Atlantic, Northwest"
+msgstr "Атлантика, північний захід"
+
+#. module: product_fao_fishing
+#: model:product.attribute.value,name:product_fao_fishing.fao_fishing_area_47
+msgid "Atlantic, Southeast"
+msgstr "Атлантика, південний схід"
+
+#. module: product_fao_fishing
+#: model:product.attribute.value,name:product_fao_fishing.fao_fishing_area_41
+msgid "Atlantic, Southwest"
+msgstr "Атлантика, південний захід"
+
+#. module: product_fao_fishing
+#: model:product.attribute.value,name:product_fao_fishing.fao_fishing_area_31
+msgid "Atlantic, Western Central"
+msgstr "Атлантика, західна центральна частина"
+
+#. module: product_fao_fishing
+#: model:product.attribute.value,name:product_fao_fishing.fishing_technique_att_value_enmanelle_nets
+msgid "Enmanelle nets and similar"
+msgstr "Сіті Enmanelle та подібні"
+
+#. module: product_fao_fishing
+#: model:product.attribute.value,name:product_fao_fishing.fao_fishing_area_5
+msgid "Europe - Inland waters"
+msgstr "Європа — внутрішні води"
+
+#. module: product_fao_fishing
+#: model:product.attribute,name:product_fao_fishing.fao_fishing_area
+msgid "FAO Fishing Areas"
+msgstr "Риболовні зони FAO"
+
+#. module: product_fao_fishing
+#: model:product.attribute,name:product_fao_fishing.fao_fishing_technique
+msgid "FAO Fishing Technique"
+msgstr "Техніка риболовлі FAO"
+
+#. module: product_fao_fishing
+#: model:product.attribute.value,name:product_fao_fishing.fao_fishing_area_7
+msgid "Former USSR area - Inland waters"
+msgstr "Територія колишнього СРСР — внутрішні води"
+
+#. module: product_fao_fishing
+#: model:product.attribute.value,name:product_fao_fishing.fishing_technique_att_value_harrows
+msgid "Harrows"
+msgstr "Борони"
+
+#. module: product_fao_fishing
+#: model:product.attribute.value,name:product_fao_fishing.fao_fishing_area_58
+msgid "Indian Ocean, Antarctic"
+msgstr "Індійський океан, Антарктика"
+
+#. module: product_fao_fishing
+#: model:product.attribute.value,name:product_fao_fishing.fao_fishing_area_57
+msgid "Indian Ocean, Eastern"
+msgstr "Індійський океан, східна частина"
+
+#. module: product_fao_fishing
+#: model:product.attribute.value,name:product_fao_fishing.fao_fishing_area_51
+msgid "Indian Ocean, Western"
+msgstr "Індійський океан, західна частина"
+
+#. module: product_fao_fishing
+#: model:product.attribute.value,name:product_fao_fishing.fao_fishing_area_99
+msgid "Marine areas outside the Antarctic"
+msgstr "Морські райони за межами Антарктики"
+
+#. module: product_fao_fishing
+#: model:product.attribute.value,name:product_fao_fishing.fao_fishing_area_37
+msgid "Mediterranean and Black Sea"
+msgstr "Середземне та Чорне моря"
+
+#. module: product_fao_fishing
+#: model:product.attribute.value,name:product_fao_fishing.fao_fishing_area_6
+msgid "Oceania - Inland waters"
+msgstr "Океанія — внутрішні води"
+
+#. module: product_fao_fishing
+#: model:product.attribute.value,name:product_fao_fishing.fao_fishing_area_88
+msgid "Pacific, Antarctic"
+msgstr "Тихий океан, Антарктика"
+
+#. module: product_fao_fishing
+#: model:product.attribute.value,name:product_fao_fishing.fao_fishing_area_77
+msgid "Pacific, Eastern Central"
+msgstr "Тихий океан, східна центральна частина"
+
+#. module: product_fao_fishing
+#: model:product.attribute.value,name:product_fao_fishing.fao_fishing_area_67
+msgid "Pacific, Northeast"
+msgstr "Тихий океан, північний схід"
+
+#. module: product_fao_fishing
+#: model:product.attribute.value,name:product_fao_fishing.fao_fishing_area_61
+msgid "Pacific, Northwest"
+msgstr "Тихий океан, північний захід"
+
+#. module: product_fao_fishing
+#: model:product.attribute.value,name:product_fao_fishing.fao_fishing_area_87
+msgid "Pacific, Southeast"
+msgstr "Тихий океан, південний схід"
+
+#. module: product_fao_fishing
+#: model:product.attribute.value,name:product_fao_fishing.fao_fishing_area_81
+msgid "Pacific, Southwest"
+msgstr "Тихий океан, південний захід"
+
+#. module: product_fao_fishing
+#: model:product.attribute.value,name:product_fao_fishing.fao_fishing_area_71
+msgid "Pacific, Western Central"
+msgstr "Тихий океан, західна центральна частина"
+
+#. module: product_fao_fishing
+#: model:product.attribute.value,name:product_fao_fishing.fishing_technique_att_value_purse_nets
+msgid "Purse seines and nets hoisted"
+msgstr "Кошелькові неводи та підйомні сіті"
+
+#. module: product_fao_fishing
+#: model:product.attribute.value,name:product_fao_fishing.fishing_technique_att_value_spearfishing
+msgid "Spearfishing"
+msgstr "Підводне полювання"
+
+#. module: product_fao_fishing
+#: model:product.attribute.value,name:product_fao_fishing.fishing_technique_att_value_trapping
+msgid "Trapping"
+msgstr "Вилов пастками"
+
+#. module: product_fao_fishing
+#: model:product.attribute.value,name:product_fao_fishing.fishing_technique_att_value_trawl_nets
+msgid "Trawl nets"
+msgstr "Тралові сіті"

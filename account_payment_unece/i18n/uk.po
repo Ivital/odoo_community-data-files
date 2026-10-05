@@ -28,3 +28,12 @@ msgstr "Засоби платежу (UNCL 4461)"
 #: model:ir.model.fields,field_description:account_payment_unece.field_account_payment_method__unece_id
 msgid "UNECE Payment Mean"
 msgstr "Засіб платежу UNECE"
+
+#. module: account_payment_unece
+#: model:ir.model.fields,help:account_payment_unece.field_account_payment_method__unece_id
+msgid ""
+"Standard nomenclature of the United Nations Economic Commission for Europe "
+"(UNECE) defined in UN/EDIFACT Data Element 4461"
+msgstr ""
+"Стандартна номенклатура Європейської економічної комісії ООН (UNECE), "
+"визначена в UN/EDIFACT Data Element 4461"
