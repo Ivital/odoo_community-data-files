@@ -90,3 +90,18 @@ msgstr "Молоко"
 #: model_terms:ir.ui.view,arch_db:product_allergen.res_config_settings_view_form
 msgid "Show Allergens on Product Labels"
 msgstr "Показувати алергени на етикетках товару"
+
+#. module: product_allergen
+#: model_terms:ir.ui.view,arch_db:product_allergen.res_config_settings_view_form
+msgid "Allergen Information"
+msgstr "Інформація про алергени"
+
+#. module: product_allergen
+#: model_terms:ir.actions.act_window,help:product_allergen.action_allergen_allergen
+msgid "Create your first allergen"
+msgstr "Створіть свій перший алерген"
+
+#. module: product_allergen
+#: model_terms:ir.actions.act_window,help:product_allergen.action_allergen_allergen
+msgid "Define allergens that can be associated with products."
+msgstr "Визначте алергени, які можна пов’язувати з товарами."

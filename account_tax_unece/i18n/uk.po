@@ -34,3 +34,33 @@ msgstr "Тип податку UNECE"
 #: model:ir.model.fields,field_description:account_tax_unece.field_account_tax__unece_type_code
 msgid "UNECE Type Code"
 msgstr "Код типу UNECE"
+
+#. module: account_tax_unece
+#: model:ir.model.fields,field_description:account_tax_unece.field_account_tax__unece_categ_code
+msgid "UNECE Category Code"
+msgstr "Код категорії UNECE"
+
+#. module: account_tax_unece
+#: model:ir.model.fields,field_description:account_tax_unece.field_account_tax__unece_categ_id
+msgid "UNECE Tax Category"
+msgstr "Податкова категорія UNECE"
+
+#. module: account_tax_unece
+#: model:ir.model.fields,field_description:account_tax_unece.field_account_tax__unece_vatex_id
+msgid "VAT Exemption Reason"
+msgstr "Причина звільнення від ПДВ"
+
+#. module: account_tax_unece
+#: model:ir.model.fields,field_description:account_tax_unece.field_account_tax__unece_vatex_code
+msgid "VAT Exemption Reason Code"
+msgstr "Код причини звільнення від ПДВ"
+
+#. module: account_tax_unece
+#: model:ir.model.fields.selection,name:account_tax_unece.selection__unece_code_list__type__tax_vatex
+msgid "VAT Exemption Reason Codes"
+msgstr "Коди причин звільнення від ПДВ"
+
+#. module: account_tax_unece
+#: model_terms:ir.ui.view,arch_db:account_tax_unece.unece_code_list_search
+msgid "VAT Exemption Reasons"
+msgstr "Причини звільнення від ПДВ"

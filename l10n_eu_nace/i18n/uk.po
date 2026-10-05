@@ -49,3 +49,14 @@ msgstr "Останнє оновлення ким"
 #: model:ir.model.fields,field_description:l10n_eu_nace.field_res_partner_industry_eu_nace_wizard__write_date
 msgid "Last Updated on"
 msgstr "Останнє оновлення"
+
+#. module: l10n_eu_nace
+#: model_terms:ir.ui.view,arch_db:l10n_eu_nace.partner_industry_nace_wizard_view_form
+msgid ""
+"Import NACE industries from ShowVoc API. This will\n"
+"                        create new industries or update existing ones with their\n"
+"                        translations for all active languages in the system."
+msgstr ""
+"Імпортувати галузі NACE з API ShowVoc. Будуть\n"
+"                        створені нові галузі або оновлені наявні разом із їхніми\n"
+"                        перекладами для всіх активних мов у системі."

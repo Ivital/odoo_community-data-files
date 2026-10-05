@@ -231,3 +231,1559 @@ msgstr "Категорія транспорту"
 #: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.adr_goods_view_search
 msgid "Tunnel Restriction Code"
 msgstr "Код обмеження тунелю"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1133_F1_3_5L_P001/IBC03/LP01/R001_3
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1133_F1_3_640C_5L_P001_2
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1133_F1_3_640D_5L_P001/IBC02/R001_2
+msgid ""
+"ADHESIVES containing flammable liquid (vapour pressure at 50 °C more than110"
+" kPa)"
+msgstr ""
+"КЛЕЇ, що містять легкозаймисту рідину (тиск пари при 50 °C понад 110 кПа)"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1986
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1986_1L
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1986_5L
+msgid "ALCOHOLS, FLAMMABLE, TOXIC, N.O.S."
+msgstr "СПИРТИ, ЛЕГКОЗАЙМИСТІ, ТОКСИЧНІ, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1988
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1988_1L
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1988_5L
+msgid "ALDEHYDES, FLAMMABLE, TOXIC, N.O.S."
+msgstr "АЛЬДЕГІДИ, ЛЕГКОЗАЙМИСТІ, ТОКСИЧНІ, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3140
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3140_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3140_5L
+msgid "ALKALOIDS, LIQUID, N.O.S. or ALKALOID SALTS, LIQUID, N.O.S."
+msgstr "АЛКАЛОЇДИ, РІДКІ, Н.З.К. або СОЛІ АЛКАЛОЇДІВ, РІДКІ, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1544
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1544_500g
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1544_5kg
+msgid "ALKALOIDS, SOLID, N.O.S. or ALKALOID SALTS, SOLID, N.O.S."
+msgstr "АЛКАЛОЇДИ, ТВЕРДІ, Н.З.К. або СОЛІ АЛКАЛОЇДІВ, ТВЕРДІ, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3145
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3145_1L
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3145_5L
+msgid "ALKYLPHENOLS, LIQUID, N.O.S. (including C2-C12 homologues)"
+msgstr "АЛКІЛФЕНОЛИ, РІДКІ, Н.З.К. (включно з гомологами C2-C12)"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2430
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2430_1kg
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2430_5kg
+msgid "ALKYLPHENOLS, SOLID, N.O.S. (including C2-C12 homologues)"
+msgstr "АЛКІЛФЕНОЛИ, ТВЕРДІ, Н.З.К. (включно з гомологами C2-C12)"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2733
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2733_1L
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2733_5L
+msgid ""
+"AMINES, FLAMMABLE, CORROSIVE, N.O.S. or POLYAMINES, FLAMMABLE, CORROSIVE, "
+"N.O.S."
+msgstr ""
+"АМІНИ, ЛЕГКОЗАЙМИСТІ, КОРОЗІЙНІ, Н.З.К. або ПОЛІАМІНИ, ЛЕГКОЗАЙМИСТІ, "
+"КОРОЗІЙНІ, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2735
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2735_1L
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2735_5L
+msgid ""
+"AMINES, LIQUID, CORROSIVE, N.O.S. or POLYAMINES, LIQUID, CORROSIVE, N.O.S."
+msgstr ""
+"АМІНИ, РІДКІ, КОРОЗІЙНІ, Н.З.К. або ПОЛІАМІНИ, РІДКІ, КОРОЗІЙНІ, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3259
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3259_1kg
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3259_5kg
+msgid ""
+"AMINES, SOLID, CORROSIVE, N.O.S. or POLYAMINES, SOLID, CORROSIVE, N.O.S."
+msgstr ""
+"АМІНИ, ТВЕРДІ, КОРОЗІЙНІ, Н.З.К. або ПОЛІАМІНИ, ТВЕРДІ, КОРОЗІЙНІ, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0171
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0254
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0297
+msgid ""
+"AMMUNITION, ILLUMINATING with or without burster, expelling charge or "
+"propelling charge"
+msgstr ""
+"БОЄПРИПАСИ ОСВІТЛЮВАЛЬНІ з розривним, виштовхувальним чи метальним зарядом "
+"або без них"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0009
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0010
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0300
+msgid ""
+"AMMUNITION, INCENDIARY with or without burster, expelling charge or "
+"propelling charge"
+msgstr ""
+"БОЄПРИПАСИ ЗАПАЛЮВАЛЬНІ з розривним, виштовхувальним чи метальним зарядом "
+"або без них"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0015_1dot2G_1_P130/LP101_1
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0016_1dot3G_1_P130/LP101_1
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0303_1dot4G_1dot4_P130/LP101_2
+msgid ""
+"AMMUNITION, SMOKE with or without burster, expelling charge or propelling "
+"charge"
+msgstr ""
+"БОЄПРИПАСИ ДИМОВІ з розривним, виштовхувальним чи метальним зарядом або без "
+"них"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0015_1dot2G_1/8_P130/LP101_1
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0016_1dot3G_1/8_P130/LP101_1
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0303_1dot4G_1dot4/8_P130/LP101_2
+msgid ""
+"AMMUNITION, SMOKE with or without burster, expelling charge or propelling "
+"charge, containing corrosive substances"
+msgstr ""
+"БОЄПРИПАСИ ДИМОВІ з розривним, виштовхувальним чи метальним зарядом або без "
+"них, що містять корозійні речовини"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0018
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0019
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0301
+msgid ""
+"AMMUNITION, TEAR-PRODUCING with burster, expelling charge or propelling "
+"charge"
+msgstr ""
+"БОЄПРИПАСИ СЛЬОЗОГІННІ з розривним, виштовхувальним або метальним зарядом"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1556
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1556_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1556_5L
+msgid ""
+"ARSENIC COMPOUND, LIQUID, N.O.S., inorganic, including: Arsenates, n.o.s., "
+"Arsenites, n.o.s.; and Arsenic sulphides, n.o.s."
+msgstr ""
+"СПОЛУКА МИШ'ЯКУ, РІДКА, Н.З.К., неорганічна, включно з: арсенатами, Н.З.К., "
+"арсенітами, Н.З.К.; та сульфідами миш'яку, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1557
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1557_500g
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1557_5kg
+msgid ""
+"ARSENIC COMPOUND, SOLID, N.O.S., inorganic, including: Arsenates, n.o.s.; "
+"Arsenites, n.o.s.; and Arsenic sulphides, n.o.s."
+msgstr ""
+"СПОЛУКА МИШ'ЯКУ, ТВЕРДА, Н.З.К., неорганічна, включно з: арсенатами, Н.З.К.;"
+" арсенітами, Н.З.К.; та сульфідами миш'яку, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2994
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2994_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2994_5L
+msgid "ARSENICAL PESTICIDE, LIQUID, TOXIC"
+msgstr "МИШ'ЯКОВМІСНИЙ ПЕСТИЦИД, РІДКИЙ, ТОКСИЧНИЙ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2993
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2993_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2993_5L
+msgid ""
+"ARSENICAL PESTICIDE, LIQUID, TOXIC, FLAMMABLE, flash-point not less than 23 "
+"°C"
+msgstr ""
+"МИШ'ЯКОВМІСНИЙ ПЕСТИЦИД, РІДКИЙ, ТОКСИЧНИЙ, ЛЕГКОЗАЙМИСТИЙ, температура "
+"спалаху не нижче 23 °C"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2759
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2759_500g
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2759_5kg
+msgid "ARSENICAL PESTICIDE, SOLID, TOXIC"
+msgstr "МИШ'ЯКОВМІСНИЙ ПЕСТИЦИД, ТВЕРДИЙ, ТОКСИЧНИЙ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0349
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0350
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0351
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0352
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0353
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0354
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0355
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0356
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0462
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0463
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0464
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0465
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0466
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0467
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0468
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0469
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0470
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0471
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0472
+msgid "ARTICLES, EXPLOSIVE, N.O.S."
+msgstr "ВИРОБИ ВИБУХОВІ, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0428
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0429
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0430
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0431
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0432
+msgid "ARTICLES, PYROTECHNIC for technical purposes"
+msgstr "ВИРОБИ ПІРОТЕХНІЧНІ технічного призначення"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3016
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3016_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3016_5L
+msgid "BIPYRIDILIUM PESTICIDE, LIQUID, TOXIC"
+msgstr "БІПІРИДИЛІЄВИЙ ПЕСТИЦИД, РІДКИЙ, ТОКСИЧНИЙ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3015
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3015_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3015_5L
+msgid ""
+"BIPYRIDILIUM PESTICIDE, LIQUID, TOXIC, FLAMMABLE, flash-point not less than "
+"23 °C"
+msgstr ""
+"БІПІРИДИЛІЄВИЙ ПЕСТИЦИД, РІДКИЙ, ТОКСИЧНИЙ, ЛЕГКОЗАЙМИСТИЙ, температура "
+"спалаху не нижче 23 °C"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2781
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2781_500g
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2781_5kg
+msgid "BIPYRIDILIUM PESTICIDE, SOLID, TOXIC"
+msgstr "БІПІРИДИЛІЄВИЙ ПЕСТИЦИД, ТВЕРДИЙ, ТОКСИЧНИЙ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0033
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0034
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0035
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0291
+msgid "BOMBS with bursting charge"
+msgstr "БОМБИ з розривним зарядом"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0037
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0038
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0039
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0299
+msgid "BOMBS, PHOTO-FLASH"
+msgstr "ФОТОСПАЛАХОВІ БОМБИ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2570
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2570_500g
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2570_5kg
+msgid "CADMIUM COMPOUND"
+msgstr "СПОЛУКА КАДМІЮ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2992
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2992_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2992_5L
+msgid "CARBAMATE PESTICIDE, LIQUID, TOXIC"
+msgstr "КАРБАМАТНИЙ ПЕСТИЦИД, РІДКИЙ, ТОКСИЧНИЙ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2991
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2991_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2991_5L
+msgid ""
+"CARBAMATE PESTICIDE, LIQUID, TOXIC, FLAMMABLE, flash-point not less than 23 "
+"°C"
+msgstr ""
+"КАРБАМАТНИЙ ПЕСТИЦИД, РІДКИЙ, ТОКСИЧНИЙ, ЛЕГКОЗАЙМИСТИЙ, температура спалаху"
+" не нижче 23 °C"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2757
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2757_500g
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2757_5kg
+msgid "CARBAMATE PESTICIDE, SOLID, TOXIC"
+msgstr "КАРБАМАТНИЙ ПЕСТИЦИД, ТВЕРДИЙ, ТОКСИЧНИЙ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0005_1dot1F_1_P130_1
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0006_1dot1E_1_P130/LP101_1
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0007
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0321
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0348
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0412
+msgid "CARTRIDGES FOR WEAPONS with bursting charge"
+msgstr "ПАТРОНИ ДЛЯ ЗБРОЇ з розривним зарядом"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0012
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0339
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0417
+msgid "CARTRIDGES FOR WEAPONS, INERT PROJECTILE or CARTRIDGES, SMALL ARMS"
+msgstr "ПАТРОНИ ДЛЯ ЗБРОЇ, ІНЕРТНИЙ СНАРЯД або ПАТРОНИ ДЛЯ СТРІЛЕЦЬКОЇ ЗБРОЇ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0275
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0276
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0323
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0381
+msgid "CARTRIDGES, POWER DEVICE"
+msgstr "ПАТРОНИ ДЛЯ СИЛОВИХ ПРИСТРОЇВ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0054
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0312
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0405
+msgid "CARTRIDGES, SIGNAL"
+msgstr "ПАТРОНИ СИГНАЛЬНІ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0457
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0458
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0459
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0460
+msgid "CHARGES, BURSTING, PLASTICS BONDED"
+msgstr "ЗАРЯДИ РОЗРИВНІ, З ПЛАСТИКОВИМ ЗВ'ЯЗУВАЛЬНИМ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0442
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0443
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0444
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0445
+msgid "CHARGES, EXPLOSIVE, COMMERCIAL without detonator"
+msgstr "ЗАРЯДИ ВИБУХОВІ, ПРОМИСЛОВІ, без детонатора"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0271
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0272
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0415
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0491
+msgid "CHARGES, PROPELLING"
+msgstr "МЕТАЛЬНІ ЗАРЯДИ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0242
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0279
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0414
+msgid "CHARGES, PROPELLING, FOR CANNON"
+msgstr "МЕТАЛЬНІ ЗАРЯДИ ДЛЯ ГАРМАТ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0439
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0440
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0441
+msgid "CHARGES, SHAPED, without detonator"
+msgstr "ЗАРЯДИ КУМУЛЯТИВНІ, без детонатора"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1583
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1583_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1583_5L
+msgid "CHLOROPICRIN MIXTURE, N.O.S."
+msgstr "СУМІШ ХЛОРПІКРИНУ, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0382
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0383
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0384
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0461
+msgid "COMPONENTS, EXPLOSIVE TRAIN, N.O.S."
+msgstr "КОМПОНЕНТИ ВИБУХОВОГО ЛАНЦЮГА, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3010
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3010_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3010_5L
+msgid "COPPER BASED PESTICIDE, LIQUID, TOXIC"
+msgstr "ПЕСТИЦИД НА ОСНОВІ МІДІ, РІДКИЙ, ТОКСИЧНИЙ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3009
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3009_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3009_5L
+msgid ""
+"COPPER BASED PESTICIDE, LIQUID, TOXIC, FLAMMABLE, flash-point not less than "
+"23 °C"
+msgstr ""
+"ПЕСТИЦИД НА ОСНОВІ МІДІ, РІДКИЙ, ТОКСИЧНИЙ, ЛЕГКОЗАЙМИСТИЙ, температура "
+"спалаху не нижче 23 °C"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2775
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2775_500g
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2775_5kg
+msgid "COPPER BASED PESTICIDE, SOLID, TOXIC"
+msgstr "ПЕСТИЦИД НА ОСНОВІ МІДІ, ТВЕРДИЙ, ТОКСИЧНИЙ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3264
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3264_1L
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3264_5L
+msgid "CORROSIVE LIQUID, ACIDIC, INORGANIC, N.O.S."
+msgstr "КОРОЗІЙНА РІДИНА, КИСЛА, НЕОРГАНІЧНА, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3265
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3265_1L
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3265_5L
+msgid "CORROSIVE LIQUID, ACIDIC, ORGANIC, N.O.S."
+msgstr "КОРОЗІЙНА РІДИНА, КИСЛА, ОРГАНІЧНА, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3266
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3266_1L
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3266_5L
+msgid "CORROSIVE LIQUID, BASIC, INORGANIC, N.O.S."
+msgstr "КОРОЗІЙНА РІДИНА, ЛУЖНА, НЕОРГАНІЧНА, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3267
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3267_1L
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3267_5L
+msgid "CORROSIVE LIQUID, BASIC, ORGANIC, N.O.S."
+msgstr "КОРОЗІЙНА РІДИНА, ЛУЖНА, ОРГАНІЧНА, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1760
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1760_1L
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1760_5L
+msgid "CORROSIVE LIQUID, N.O.S."
+msgstr "КОРОЗІЙНА РІДИНА, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2922
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2922_1L
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2922_5L
+msgid "CORROSIVE LIQUID, TOXIC, N.O.S."
+msgstr "КОРОЗІЙНА ТОКСИЧНА РІДИНА, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3260
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3260_1kg
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3260_5kg
+msgid "CORROSIVE SOLID, ACIDIC, INORGANIC, N.O.S."
+msgstr "КОРОЗІЙНА ТВЕРДА РЕЧОВИНА, КИСЛА, НЕОРГАНІЧНА, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3261
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3261_1kg
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3261_5kg
+msgid "CORROSIVE SOLID, ACIDIC, ORGANIC, N.O.S."
+msgstr "КОРОЗІЙНА ТВЕРДА РЕЧОВИНА, КИСЛА, ОРГАНІЧНА, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3262
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3262_1kg
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3262_5kg
+msgid "CORROSIVE SOLID, BASIC, INORGANIC, N.O.S."
+msgstr "КОРОЗІЙНА ТВЕРДА РЕЧОВИНА, ЛУЖНА, НЕОРГАНІЧНА, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3263
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3263_1kg
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3263_5kg
+msgid "CORROSIVE SOLID, BASIC, ORGANIC, N.O.S."
+msgstr "КОРОЗІЙНА ТВЕРДА ЛУЖНА ОРГАНІЧНА РЕЧОВИНА, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1759
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1759_1kg
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1759_5kg
+msgid "CORROSIVE SOLID, N.O.S."
+msgstr "КОРОЗІЙНА ТВЕРДА РЕЧОВИНА, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2923
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2923_1kg
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2923_5kg
+msgid "CORROSIVE SOLID, TOXIC, N.O.S."
+msgstr "КОРОЗІЙНА ТВЕРДА ТОКСИЧНА РЕЧОВИНА, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3026
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3026_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3026_5L
+msgid "COUMARIN DERIVATIVE PESTICIDE, LIQUID, TOXIC"
+msgstr "ПЕСТИЦИД — ПОХІДНЕ КУМАРИНУ, РІДКИЙ, ТОКСИЧНИЙ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3025
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3025_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3025_5L
+msgid ""
+"COUMARIN DERIVATIVE PESTICIDE, LIQUID, TOXIC, FLAMMABLE, flash-point not "
+"less than 23 °C"
+msgstr ""
+"ПЕСТИЦИД — ПОХІДНЕ КУМАРИНУ, РІДКИЙ, ТОКСИЧНИЙ, ЛЕГКОЗАЙМИСТИЙ, температура "
+"спалаху не нижче 23 °C"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3027
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3027_500g
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3027_5kg
+msgid "COUMARIN DERIVATIVE PESTICIDE, SOLID, TOXIC"
+msgstr "ПЕСТИЦИД — ПОХІДНЕ КУМАРИНУ, ТВЕРДИЙ, ТОКСИЧНИЙ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1935
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1935_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1935_5L
+msgid "CYANIDE SOLUTION, N.O.S."
+msgstr "РОЗЧИН ЦІАНІДУ, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1588
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1588_500g
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1588_5kg
+msgid "CYANIDES, INORGANIC, SOLID, N.O.S."
+msgstr "ЦІАНІДИ НЕОРГАНІЧНІ, ТВЕРДІ, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0360
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0361
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0500
+msgid "DETONATOR ASSEMBLIES, NON-ELECTRIC for blasting"
+msgstr "ЗБІРКИ ДЕТОНАТОРІВ НЕЕЛЕКТРИЧНІ для підривних робіт"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0073
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0364
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0365
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0366
+msgid "DETONATORS FOR AMMUNITION"
+msgstr "ДЕТОНАТОРИ ДЛЯ БОЄПРИПАСІВ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0030
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0255
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0456
+msgid "DETONATORS, ELECTRIC for blasting"
+msgstr "ДЕТОНАТОРИ ЕЛЕКТРИЧНІ для підривних робіт"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0029
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0267
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0455
+msgid "DETONATORS, NON-ELECTRIC for blasting"
+msgstr "ДЕТОНАТОРИ НЕЕЛЕКТРИЧНІ для підривних робіт"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1903
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1903_1L
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1903_5L
+msgid "DISINFECTANT, LIQUID, CORROSIVE, N.O.S."
+msgstr "ДЕЗІНФЕКЦІЙНИЙ ЗАСІБ, РІДКИЙ, КОРОЗІЙНИЙ, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3142
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3142_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3142_5L
+msgid "DISINFECTANT, LIQUID, TOXIC, N.O.S."
+msgstr "ДЕЗІНФЕКЦІЙНИЙ ЗАСІБ, РІДКИЙ, ТОКСИЧНИЙ, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1601
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1601_500g
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1601_5kg
+msgid "DISINFECTANT, SOLID, TOXIC, N.O.S."
+msgstr "ДЕЗІНФЕКЦІЙНИЙ ЗАСІБ, ТВЕРДИЙ, ТОКСИЧНИЙ, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2801
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2801_1L
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2801_5L
+msgid ""
+"DYE, LIQUID, CORROSIVE, N.O.S. or DYE INTERMEDIATE, LIQUID, CORROSIVE, "
+"N.O.S."
+msgstr ""
+"БАРВНИК, РІДКИЙ, КОРОЗІЙНИЙ, Н.З.К. або ПРОМІЖНИЙ ПРОДУКТ БАРВНИКА, РІДКИЙ, "
+"КОРОЗІЙНИЙ, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1602
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1602_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1602_5L
+msgid "DYE, LIQUID, TOXIC, N.O.S. or DYE INTERMEDIATE, LIQUID, TOXIC, N.O.S."
+msgstr ""
+"БАРВНИК, РІДКИЙ, ТОКСИЧНИЙ, Н.З.К. або ПРОМІЖНИЙ ПРОДУКТ БАРВНИКА, РІДКИЙ, "
+"ТОКСИЧНИЙ, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3147
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3147_1kg
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3147_5kg
+msgid ""
+"DYE, SOLID, CORROSIVE, N.O.S. or DYE INTERMEDIATE, SOLID, CORROSIVE, N.O.S."
+msgstr ""
+"БАРВНИК, ТВЕРДИЙ, КОРОЗІЙНИЙ, Н.З.К. або ПРОМІЖНИЙ ПРОДУКТ БАРВНИКА, "
+"ТВЕРДИЙ, КОРОЗІЙНИЙ, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3143
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3143_500g
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3143_5kg
+msgid "DYE, SOLID, TOXIC, N.O.S. or DYE INTERMEDIATE, SOLID, TOXIC, N.O.S."
+msgstr ""
+"БАРВНИК, ТВЕРДИЙ, ТОКСИЧНИЙ, Н.З.К. або ПРОМІЖНИЙ ПРОДУКТ БАРВНИКА, ТВЕРДИЙ,"
+" ТОКСИЧНИЙ, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.product_template_form_view
+msgid ""
+"Dangerous goods settings differ per variant of this product. Please "
+"configure the dangerous goods settings on each variant."
+msgstr ""
+"Налаштування небезпечних вантажів відрізняються для варіантів цього товару. "
+"Налаштуйте їх для кожного варіанта."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2924
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2924_1L
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2924_5L
+msgid "FLAMMABLE LIQUID, CORROSIVE, N.O.S."
+msgstr "ЛЕГКОЗАЙМИСТА КОРОЗІЙНА РІДИНА, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1992
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1992_1L
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1992_5L
+msgid "FLAMMABLE LIQUID, TOXIC, N.O.S."
+msgstr "ЛЕГКОЗАЙМИСТА ТОКСИЧНА РІДИНА, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0093
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0403
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0404
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0420
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0421
+msgid "FLARES, AERIAL"
+msgstr "СИГНАЛЬНІ РАКЕТИ, ПОВІТРЯНІ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0092
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0418
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0419
+msgid "FLARES, SURFACE"
+msgstr "СИГНАЛЬНІ РАКЕТИ, НАЗЕМНІ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0106
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0107
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0257
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0367
+msgid "FUZES, DETONATING"
+msgstr "ДЕТОНУЮЧІ ПІДРИВНИКИ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0408
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0409
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0410
+msgid "FUZES, DETONATING with protective features"
+msgstr "ДЕТОНУЮЧІ ПІДРИВНИКИ із захисними елементами"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0316
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0317
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0368
+msgid "FUZES, IGNITING"
+msgstr "ПІДРИВНИКИ ЗАПАЛЮВАЛЬНІ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0110
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0318
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0372
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0452
+msgid "GRENADES, PRACTICE, hand or rifle"
+msgstr "ГРАНАТИ НАВЧАЛЬНІ, ручні або рушничні"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0284
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0285
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0292
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0293
+msgid "GRENADES, hand or rifle, with bursting charge"
+msgstr "ГРАНАТИ, ручні або рушничні, з розривним зарядом"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2545_S4_4dot2_540_P002/IBC08/LP02/R001_3
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2545_S4_4dot2_540_P404_0
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2545_S4_4dot2_540_P410/IBC06_2
+msgid "HAFNIUM POWDER, DRY"
+msgstr "ПОРОШОК ГАФНІЮ, СУХИЙ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2030
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2030_1L
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2030_5L
+msgid "HYDRAZINE AQUEOUS SOLUTION, with more than 37% hydrazine by mass"
+msgstr "ВОДНИЙ РОЗЧИН ГІДРАЗИНУ, з масовою часткою гідразину понад 37%"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1418_WS_4dot3/4dot2_P403_1
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1418_WS_4dot3/4dot2_P410/IBC05_2
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1418_WS_4dot3/4dot2_P410/IBC08/R001_3
+msgid "MAGNESIUM POWDER or MAGNESIUM ALLOYS POWDER"
+msgstr "ПОРОШОК МАГНІЮ або ПОРОШОК МАГНІЄВИХ СПЛАВІВ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3012
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3012_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3012_5L
+msgid "MERCURY BASED PESTICIDE, LIQUID, TOXIC"
+msgstr "ПЕСТИЦИД НА ОСНОВІ РТУТІ, РІДКИЙ, ТОКСИЧНИЙ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3011
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3011_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3011_5L
+msgid ""
+"MERCURY BASED PESTICIDE, LIQUID, TOXIC, FLAMMABLE, flash-point not less than"
+" 23 °C"
+msgstr ""
+"ПЕСТИЦИД НА ОСНОВІ РТУТІ, РІДКИЙ, ТОКСИЧНИЙ, ЛЕГКОЗАЙМИСТИЙ, температура "
+"спалаху не нижче 23 °C"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2777
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2777_500g
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2777_5kg
+msgid "MERCURY BASED PESTICIDE, SOLID, TOXIC"
+msgstr "ПЕСТИЦИД НА ОСНОВІ РТУТІ, ТВЕРДИЙ, ТОКСИЧНИЙ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2024
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2024_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2024_5L
+msgid "MERCURY COMPOUND, LIQUID, N.O.S."
+msgstr "СПОЛУКА РТУТІ, РІДКА, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2025
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2025_500g
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2025_5kg
+msgid "MERCURY COMPOUND, SOLID, N.O.S."
+msgstr "СПОЛУКА РТУТІ, ТВЕРДА, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3466
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3466_500g
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3466_5kg
+msgid "METAL CARBONYLS,  SOLID, N.O.S."
+msgstr "КАРБОНІЛИ МЕТАЛІВ, ТВЕРДІ, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3281
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3281_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3281_5L
+msgid "METAL CARBONYLS, LIQUID, N.O.S."
+msgstr "КАРБОНІЛИ МЕТАЛІВ, РІДКІ, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2881_S4_4dot2_274_P002/IBC08/LP02/R001_3
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2881_S4_4dot2_274_P404_0
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2881_S4_4dot2_274_P410/IBC06_2
+msgid "METAL CATALYST, DRY"
+msgstr "МЕТАЛЕВИЙ КАТАЛІЗАТОР, СУХИЙ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3208
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3208_1kg
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3208_500g
+msgid "METALLIC SUBSTANCE, WATER-REACTIVE, N.O.S."
+msgstr "МЕТАЛЕВА РЕЧОВИНА, ЩО РЕАГУЄ З ВОДОЮ, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3209_WS_4dot3/4dot2_274/558_P403_1
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3209_WS_4dot3/4dot2_274/558_P410/IBC05_2
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3209_WS_4dot3/4dot2_274/558_P410/IBC08/R001_3
+msgid "METALLIC SUBSTANCE, WATER-REACTIVE, SELF-HEATING, N.O.S."
+msgstr "МЕТАЛЕВА РЕЧОВИНА, ЩО РЕАГУЄ З ВОДОЮ, САМОЗІГРІВАЛЬНА, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0136
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0137
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0138
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0294
+msgid "MINES with bursting charge"
+msgstr "МІНИ з розривним зарядом"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3144
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3144_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3144_5L
+msgid ""
+"NICOTINE COMPOUND, LIQUID, N.O.S. or NICOTINE PREPARATION, LIQUID, N.O.S."
+msgstr "СПОЛУКА НІКОТИНУ, РІДКА, Н.З.К. або ПРЕПАРАТ НІКОТИНУ, РІДКИЙ, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1655
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1655_500g
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1655_5kg
+msgid ""
+"NICOTINE COMPOUND, SOLID, N.O.S. or NICOTINE PREPARATION, SOLID, N.O.S."
+msgstr ""
+"СПОЛУКА НІКОТИНУ, ТВЕРДА, Н.З.К. або ПРЕПАРАТ НІКОТИНУ, ТВЕРДИЙ, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3276
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3276_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3276_5L
+msgid "NITRILES, LIQUID, TOXIC, N.O.S."
+msgstr "НІТРИЛИ, РІДКІ, ТОКСИЧНІ, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3439
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3439_500g
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3439_5kg
+msgid "NITRILES, SOLID, TOXIC, N.O.S."
+msgstr "НІТРИЛИ, ТВЕРДІ, ТОКСИЧНІ, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3280
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3280_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3280_5L
+msgid "ORGANOARSENIC COMPOUND, LIQUID, N.O.S."
+msgstr "МИШ'ЯКООРГАНІЧНА СПОЛУКА, РІДКА, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3465
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3465_500g
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3465_5kg
+msgid "ORGANOARSENIC COMPOUND, SOLID, N.O.S."
+msgstr "МИШ'ЯКООРГАНІЧНА СПОЛУКА, ТВЕРДА, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2996
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2996_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2996_5L
+msgid "ORGANOCHLORINE PESTICIDE, LIQUID, TOXIC"
+msgstr "ХЛОРОРГАНІЧНИЙ ПЕСТИЦИД, РІДКИЙ, ТОКСИЧНИЙ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2995
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2995_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2995_5L
+msgid ""
+"ORGANOCHLORINE PESTICIDE, LIQUID, TOXIC, FLAMMABLE, flash-point not less "
+"than 23 °C"
+msgstr ""
+"ХЛОРОРГАНІЧНИЙ ПЕСТИЦИД, РІДКИЙ, ТОКСИЧНИЙ, ЛЕГКОЗАЙМИСТИЙ, температура "
+"спалаху не нижче 23 °C"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2761
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2761_500g
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2761_5kg
+msgid "ORGANOCHLORINE PESTICIDE, SOLID, TOXIC"
+msgstr "ХЛОРОРГАНІЧНИЙ ПЕСТИЦИД, ТВЕРДИЙ, ТОКСИЧНИЙ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3282
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3282_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3282_5L
+msgid "ORGANOMETALLIC COMPOUND, LIQUID, TOXIC, N.O.S."
+msgstr "МЕТАЛООРГАНІЧНА СПОЛУКА, РІДКА, ТОКСИЧНА, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3467
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3467_500g
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3467_5kg
+msgid "ORGANOMETALLIC COMPOUND, SOLID, TOXIC, N.O.S."
+msgstr "МЕТАЛООРГАНІЧНА СПОЛУКА, ТВЕРДА, ТОКСИЧНА, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3398
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3398_1L
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3398_500ml
+msgid "ORGANOMETALLIC SUBSTANCE, LIQUID, WATER-REACTIVE"
+msgstr "МЕТАЛООРГАНІЧНА РЕЧОВИНА, РІДКА, ЩО РЕАГУЄ З ВОДОЮ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3399
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3399_1L
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3399_500ml
+msgid "ORGANOMETALLIC SUBSTANCE, LIQUID, WATER-REACTIVE, FLAMMABLE"
+msgstr "МЕТАЛООРГАНІЧНА РЕЧОВИНА, РІДКА, ЩО РЕАГУЄ З ВОДОЮ, ЛЕГКОЗАЙМИСТА"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3395
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3395_1kg
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3395_500g
+msgid "ORGANOMETALLIC SUBSTANCE, SOLID, WATER-REACTIVE"
+msgstr "МЕТАЛООРГАНІЧНА РЕЧОВИНА, ТВЕРДА, ЩО РЕАГУЄ З ВОДОЮ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3396
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3396_1kg
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3396_500g
+msgid "ORGANOMETALLIC SUBSTANCE, SOLID, WATER-REACTIVE, FLAMMABLE"
+msgstr "МЕТАЛООРГАНІЧНА РЕЧОВИНА, ТВЕРДА, ЩО РЕАГУЄ З ВОДОЮ, ЛЕГКОЗАЙМИСТА"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3397
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3397_1kg
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3397_500g
+msgid "ORGANOMETALLIC SUBSTANCE, SOLID, WATER-REACTIVE, SELF-HEATING"
+msgstr "МЕТАЛООРГАНІЧНА РЕЧОВИНА, ТВЕРДА, ЩО РЕАГУЄ З ВОДОЮ, САМОЗІГРІВАЛЬНА"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3278
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3278_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3278_5L
+msgid "ORGANOPHOSPHORUS COMPOUND, LIQUID, TOXIC, N.O.S."
+msgstr "ФОСФОРОРГАНІЧНА СПОЛУКА, РІДКА, ТОКСИЧНА, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3464
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3464_500g
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3464_5kg
+msgid "ORGANOPHOSPHORUS COMPOUND, SOLID, TOXIC, N.O.S."
+msgstr "ФОСФОРОРГАНІЧНА СПОЛУКА, ТВЕРДА, ТОКСИЧНА, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3018
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3018_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3018_5L
+msgid "ORGANOPHOSPHORUS PESTICIDE, LIQUID, TOXIC"
+msgstr "ФОСФОРОРГАНІЧНИЙ ПЕСТИЦИД, РІДКИЙ, ТОКСИЧНИЙ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3017
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3017_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3017_5L
+msgid ""
+"ORGANOPHOSPHORUS PESTICIDE, LIQUID, TOXIC, FLAMMABLE, flash-point not less "
+"than 23 °C"
+msgstr ""
+"ФОСФОРОРГАНІЧНИЙ ПЕСТИЦИД, РІДКИЙ, ТОКСИЧНИЙ, ЛЕГКОЗАЙМИСТИЙ, температура "
+"спалаху не нижче 23 °C"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2783
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2783_500g
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2783_5kg
+msgid "ORGANOPHOSPHORUS PESTICIDE, SOLID, TOXIC"
+msgstr "ФОСФОРОРГАНІЧНИЙ ПЕСТИЦИД, ТВЕРДИЙ, ТОКСИЧНИЙ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2788
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2788_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2788_5L
+msgid "ORGANOTIN COMPOUND, LIQUID, N.O.S."
+msgstr "ОЛОВООРГАНІЧНА СПОЛУКА, РІДКА, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3146
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3146_500g
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3146_5kg
+msgid "ORGANOTIN COMPOUND, SOLID, N.O.S."
+msgstr "ОЛОВООРГАНІЧНА СПОЛУКА, ТВЕРДА, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3020
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3020_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3020_5L
+msgid "ORGANOTIN PESTICIDE, LIQUID, TOXIC"
+msgstr "ОЛОВООРГАНІЧНИЙ ПЕСТИЦИД, РІДКИЙ, ТОКСИЧНИЙ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3019
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3019_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3019_5L
+msgid ""
+"ORGANOTIN PESTICIDE, LIQUID, TOXIC, FLAMMABLE, flash-point not less than 23 "
+"°C"
+msgstr ""
+"ОЛОВООРГАНІЧНИЙ ПЕСТИЦИД, РІДКИЙ, ТОКСИЧНИЙ, ЛЕГКОЗАЙМИСТИЙ, температура "
+"спалаху не нижче 23 °C"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2786
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2786_500g
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2786_5kg
+msgid "ORGANOTIN PESTICIDE, SOLID, TOXIC"
+msgstr "ОЛОВООРГАНІЧНИЙ ПЕСТИЦИД, ТВЕРДИЙ, ТОКСИЧНИЙ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3098
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3098_1L
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3098_5L
+msgid "OXIDIZING LIQUID, CORROSIVE, N.O.S."
+msgstr "ОКИСНЮВАЛЬНА КОРОЗІЙНА РІДИНА, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3139
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3139_1L
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3139_5L
+msgid "OXIDIZING LIQUID, N.O.S."
+msgstr "ОКИСНЮВАЛЬНА РІДИНА, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3099
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3099_1L
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3099_5L
+msgid "OXIDIZING LIQUID, TOXIC, N.O.S."
+msgstr "ОКИСНЮВАЛЬНА ТОКСИЧНА РІДИНА, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3085
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3085_1kg
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3085_5kg
+msgid "OXIDIZING SOLID, CORROSIVE, N.O.S."
+msgstr "ОКИСНЮВАЛЬНА КОРОЗІЙНА ТВЕРДА РЕЧОВИНА, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1479
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1479_1kg
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1479_5kg
+msgid "OXIDIZING SOLID, N.O.S."
+msgstr "ОКИСНЮВАЛЬНА ТВЕРДА РЕЧОВИНА, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3087
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3087_1kg
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3087_5kg
+msgid "OXIDIZING SOLID, TOXIC, N.O.S."
+msgstr "ОКИСНЮВАЛЬНА ТВЕРДА ТОКСИЧНА РЕЧОВИНА, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1263_F1_3_163/367/650_500ml_P001_1
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1263_F1_3_163/367/650_5L_P001/IBC03/LP01/R001_3
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3066_1L
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3066_5L
+msgid ""
+"PAINT (including paint, lacquer, enamel, stain, shellac, varnish, polish, "
+"liquid filler and liquid lacquer base) or PAINT RELATED MATERIAL (including "
+"paint thinning and reducing compound)"
+msgstr ""
+"ФАРБА (включно з фарбою, лаком, емаллю, морилкою, шелаком, лакофарбовими "
+"покриттями, полірувальним засобом, рідким наповнювачем і рідкою основою "
+"лаку) або МАТЕРІАЛ, ПОВ'ЯЗАНИЙ ІЗ ФАРБОЮ (включно з розріджувачами та "
+"відновниками фарби)"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3469
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3469_1L
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3469_5L
+msgid ""
+"PAINT, FLAMMABLE, CORROSIVE (including paint, lacquer, enamel, stain, "
+"shellac, varnish, polish, liquid filler and liquid lacquer base) or PAINT "
+"RELATED MATERIAL, FLAMMABLE, CORROSIVE (including paint thinning and "
+"reducing compound)"
+msgstr ""
+"ФАРБА, ЛЕГКОЗАЙМИСТА, КОРОЗІЙНА (включно з фарбою, лаком, емаллю, морилкою, "
+"шелаком, лакофарбовими покриттями, полірувальним засобом, рідким "
+"наповнювачем і рідкою основою лаку) або МАТЕРІАЛ, ПОВ'ЯЗАНИЙ ІЗ ФАРБОЮ, "
+"ЛЕГКОЗАЙМИСТИЙ, КОРОЗІЙНИЙ (включно з розріджувачами та відновниками фарби)"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2903
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2903_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2903_5L
+msgid ""
+"PESTICIDE, LIQUID, TOXIC, FLAMMABLE, N.O.S., flash-point not less than 23 °C"
+msgstr ""
+"ПЕСТИЦИД, РІДКИЙ, ТОКСИЧНИЙ, ЛЕГКОЗАЙМИСТИЙ, Н.З.К., температура спалаху не "
+"нижче 23 °C"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2902
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2902_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2902_5L
+msgid "PESTICIDE, LIQUID, TOXIC, N.O.S."
+msgstr "ПЕСТИЦИД, РІДКИЙ, ТОКСИЧНИЙ, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2588
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2588_500g
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2588_5kg
+msgid "PESTICIDE, SOLID, TOXIC, N.O.S."
+msgstr "ПЕСТИЦИД, ТВЕРДИЙ, ТОКСИЧНИЙ, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3494
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3494_1L
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3494_5L
+msgid "PETROLEUM SOUR CRUDE OIL, FLAMMABLE, TOXIC"
+msgstr "НАФТА СІРЧИСТА СИРА, ЛЕГКОЗАЙМИСТА, ТОКСИЧНА"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3348
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3348_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3348_5L
+msgid "PHENOXYACETIC ACID DERIVATIVE PESTICIDE, LIQUID, TOXIC"
+msgstr "ПЕСТИЦИД — ПОХІДНЕ ФЕНОКСИОЦТОВОЇ КИСЛОТИ, РІДКИЙ, ТОКСИЧНИЙ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3345
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3345_500g
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3345_5kg
+msgid "PHENOXYACETIC ACID DERIVATIVE PESTICIDE, SOLID, TOXIC"
+msgstr "ПЕСТИЦИД — ПОХІДНЕ ФЕНОКСИОЦТОВОЇ КИСЛОТИ, ТВЕРДИЙ, ТОКСИЧНИЙ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2026
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2026_500g
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2026_5kg
+msgid "PHENYLMERCURIC COMPOUND, N.O.S."
+msgstr "ФЕНІЛРТУТНА СПОЛУКА, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3413
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3413_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3413_5L
+msgid "POTASSIUM CYANIDE SOLUTION"
+msgstr "РОЗЧИН ЦІАНІДУ КАЛІЮ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0160
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0161
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0509
+msgid "POWDER, SMOKELESS"
+msgstr "ПОРОХ БЕЗДИМНИЙ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0044
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0377
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0378
+msgid "PRIMERS, CAP TYPE"
+msgstr "КАПСУЛІ КОВПАЧКОВОГО ТИПУ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0319
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0320
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0376
+msgid "PRIMERS, TUBULAR"
+msgstr "КАПСУЛІ-ТРУБКИ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0346
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0347
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0426
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0427
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0434
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0435
+msgid "PROJECTILES with burster or expelling charge"
+msgstr "СНАРЯДИ з розривним або виштовхувальним зарядом"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0167
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0168
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0169
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0324
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0344
+msgid "PROJECTILES with bursting charge"
+msgstr "СНАРЯДИ з розривним зарядом"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0345
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0424
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0425
+msgid "PROJECTILES, inert with tracer"
+msgstr "СНАРЯДИ інертні, з трасером"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0498
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0499
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0501
+msgid "PROPELLANT, SOLID"
+msgstr "ПАЛИВО ТВЕРДЕ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3352
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3352_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3352_5L
+msgid "PYRETHROID PESTICIDE, LIQUID, TOXIC"
+msgstr "ПІРЕТРОЇДНИЙ ПЕСТИЦИД, РІДКИЙ, ТОКСИЧНИЙ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3351
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3351_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3351_5L
+msgid ""
+"PYRETHROID PESTICIDE, LIQUID, TOXIC, FLAMMABLE, flash-point not less than 23"
+" °C"
+msgstr ""
+"ПІРЕТРОЇДНИЙ ПЕСТИЦИД, РІДКИЙ, ТОКСИЧНИЙ, ЛЕГКОЗАЙМИСТИЙ, температура "
+"спалаху не нижче 23 °C"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3349
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3349_500g
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3349_5kg
+msgid "PYRETHROID PESTICIDE, SOLID, TOXIC"
+msgstr "ПІРЕТРОЇДНИЙ ПЕСТИЦИД, ТВЕРДИЙ, ТОКСИЧНИЙ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2037_5A_2dot2_191/303/344_1L_P003_3
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2037_5F_2dot1_191/303/344_1L_P003_2
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2037_5O_2dot2/5dot1_191/303/344_1L_P003_3
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2037_5TC_2dot3/8_303/344_120ml_P003_1
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2037_5TFC_2dot3/2dot1/8_303/344_120ml_P003_1
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2037_5TF_2dot3/2dot1_303/344_120ml_P003_1
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2037_5TOC_2dot3/5dot1/8_303/344_120ml_P003_1
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2037_5TO_2dot3/5dot1_303/344_120ml_P003_1
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2037_5T_2dot3_303/344_120ml_P003_1
+msgid ""
+"RECEPTACLES, SMALL, CONTAINING GAS (GAS CARTRIDGES) without a release "
+"device, non-refillable"
+msgstr ""
+"ЄМНОСТІ МАЛІ, ЩО МІСТЯТЬ ГАЗ (ГАЗОВІ БАЛОНЧИКИ), без випускного пристрою, "
+"неперезаправні"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0186
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0280
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0281
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0510
+msgid "ROCKET MOTORS"
+msgstr "РАКЕТНІ ДВИГУНИ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0180
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0181
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0182
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0295
+msgid "ROCKETS with bursting charge"
+msgstr "РАКЕТИ з розривним зарядом"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0436
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0437
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0438
+msgid "ROCKETS with expelling charge"
+msgstr "РАКЕТИ з виштовхувальним зарядом"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0238
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0240
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0453
+msgid "ROCKETS, LINE-THROWING"
+msgstr "РАКЕТИ ЛІНЕМЕТАЛЬНІ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3440
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3440_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3440_5L
+msgid "SELENIUM COMPOUND, LIQUID, N.O.S."
+msgstr "СПОЛУКА СЕЛЕНУ, РІДКА, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3283
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3283_500g
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3283_5kg
+msgid "SELENIUM COMPOUND, SOLID, N.O.S."
+msgstr "СПОЛУКА СЕЛЕНУ, ТВЕРДА, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0194
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0195
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0505
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0506
+msgid "SIGNALS, DISTRESS, ship"
+msgstr "СИГНАЛИ ЛИХА, суднові"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0192
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0193
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0492
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0493
+msgid "SIGNALS, RAILWAY TRACK, EXPLOSIVE"
+msgstr "СИГНАЛИ ЗАЛІЗНИЧНІ, ВИБУХОВІ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0196
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0197
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0313
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0487
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0507
+msgid "SIGNALS, SMOKE"
+msgstr "СИГНАЛИ ДИМОВІ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3414
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3414_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3414_5L
+msgid "SODIUM CYANIDE SOLUTION"
+msgstr "РОЗЧИН ЦІАНІДУ НАТРІЮ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0204
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0296
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0374
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0375
+msgid "SOUNDING DEVICES, EXPLOSIVE"
+msgstr "ВИБУХОВІ ЗВУКОВІ ПРИСТРОЇ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0357
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0358
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0359
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0473
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0474
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0475
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0476
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0477
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0478
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0479
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0480
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0481
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0485
+msgid "SUBSTANCES, EXPLOSIVE, N.O.S."
+msgstr "РЕЧОВИНИ ВИБУХОВІ, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3014
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3014_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3014_5L
+msgid "SUBSTITUTED NITROPHENOL PESTICIDE, LIQUID, TOXIC"
+msgstr "ПЕСТИЦИД НА ОСНОВІ ЗАМІЩЕНОГО НІТРОФЕНОЛУ, РІДКИЙ, ТОКСИЧНИЙ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3013
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3013_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3013_5L
+msgid ""
+"SUBSTITUTED NITROPHENOL PESTICIDE, LIQUID, TOXIC, FLAMMABLE, flash-point not"
+" less than 23 °C"
+msgstr ""
+"ПЕСТИЦИД НА ОСНОВІ ЗАМІЩЕНОГО НІТРОФЕНОЛУ, РІДКИЙ, ТОКСИЧНИЙ, "
+"ЛЕГКОЗАЙМИСТИЙ, температура спалаху не нижче 23 °C"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2779
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2779_500g
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2779_5kg
+msgid "SUBSTITUTED NITROPHENOL PESTICIDE, SOLID, TOXIC"
+msgstr "ПЕСТИЦИД НА ОСНОВІ ЗАМІЩЕНОГО НІТРОФЕНОЛУ, ТВЕРДИЙ, ТОКСИЧНИЙ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3284
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3284_500g
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3284_5kg
+msgid "TELLURIUM COMPOUND, N.O.S."
+msgstr "СПОЛУКА ТЕЛУРУ, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3006
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3006_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3006_5L
+msgid "THIOCARBAMATE PESTICIDE, LIQUID, TOXIC"
+msgstr "ТІОКАРБАМАТНИЙ ПЕСТИЦИД, РІДКИЙ, ТОКСИЧНИЙ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3005
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3005_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3005_5L
+msgid ""
+"THIOCARBAMATE PESTICIDE, LIQUID, TOXIC, FLAMMABLE, flash-point not less than"
+" 23 °C"
+msgstr ""
+"ТІОКАРБАМАТНИЙ ПЕСТИЦИД, РІДКИЙ, ТОКСИЧНИЙ, ЛЕГКОЗАЙМИСТИЙ, температура "
+"спалаху не нижче 23 °C"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2771
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2771_500g
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2771_5kg
+msgid "THIOCARBAMATE PESTICIDE, SOLID, TOXIC"
+msgstr "ТІОКАРБАМАТНИЙ ПЕСТИЦИД, ТВЕРДИЙ, ТОКСИЧНИЙ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2546_S4_4dot2_540_P002/IBC08/LP02/R001_3
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2546_S4_4dot2_540_P404_0
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2546_S4_4dot2_540_P410/IBC06_2
+msgid "TITANIUM POWDER, DRY"
+msgstr "ПОРОШОК ТИТАНУ, СУХИЙ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0329
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0330
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0451
+msgid "TORPEDOES with bursting charge"
+msgstr "ТОРПЕДИ з розривним зарядом"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3287
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3287_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3287_5L
+msgid "TOXIC LIQUID, INORGANIC, N.O.S."
+msgstr "ТОКСИЧНА РІДИНА, НЕОРГАНІЧНА, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2810
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2810_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2810_5L
+msgid "TOXIC LIQUID, ORGANIC, N.O.S."
+msgstr "ТОКСИЧНА РІДИНА ОРГАНІЧНА, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3288
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3288_500g
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3288_5kg
+msgid "TOXIC SOLID, INORGANIC, N.O.S."
+msgstr "ТОКСИЧНА ТВЕРДА НЕОРГАНІЧНА РЕЧОВИНА, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2811
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2811_500g
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2811_5kG
+msgid "TOXIC SOLID, ORGANIC, N.O.S."
+msgstr "ТОКСИЧНА ТВЕРДА ОРГАНІЧНА РЕЧОВИНА, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3172
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3172_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3172_5L
+msgid "TOXINS, EXTRACTED FROM LIVING SOURCES, LIQUID, N.O.S."
+msgstr "ТОКСИНИ, ВИДІЛЕНІ З ЖИВИХ ДЖЕРЕЛ, РІДКІ, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3462
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3462_500g
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3462_5kg
+msgid "TOXINS, EXTRACTED FROM LIVING SOURCES, SOLID, N.O.S."
+msgstr "ТОКСИНИ, ВИДІЛЕНІ З ЖИВИХ ДЖЕРЕЛ, ТВЕРДІ, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2998
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2998_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2998_5L
+msgid "TRIAZINE PESTICIDE, LIQUID, TOXIC"
+msgstr "ТРИАЗИНОВИЙ ПЕСТИЦИД, РІДКИЙ, ТОКСИЧНИЙ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2997
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2997_100ml
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2997_5L
+msgid ""
+"TRIAZINE PESTICIDE, LIQUID, TOXIC, FLAMMABLE, flash-point not less than 23 "
+"°C"
+msgstr ""
+"ТРИАЗИНОВИЙ ПЕСТИЦИД, РІДКИЙ, ТОКСИЧНИЙ, ЛЕГКОЗАЙМИСТИЙ, температура спалаху"
+" не нижче 23 °C"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2763
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2763_500g
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2763_5kg
+msgid "TRIAZINE PESTICIDE, SOLID, TOXIC"
+msgstr "ТРИАЗИНОВИЙ ПЕСТИЦИД, ТВЕРДИЙ, ТОКСИЧНИЙ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1297
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1297_1L
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1297_5L
+msgid ""
+"TRIMETHYLAMINE, AQUEOUS SOLUTION, not more than 50% trimethylamine, by mass"
+msgstr "ВОДНИЙ РОЗЧИН ТРИМЕТИЛАМІНУ, не більше 50% триметиламіну за масою"
+
+#. module: l10n_eu_product_adr
+#: model:ir.model.fields,help:l10n_eu_product_adr.field_adr_goods__label_ids
+#: model:ir.model.fields,help:l10n_eu_product_adr.field_product_product__adr_label_ids
+#: model:ir.model.fields,help:l10n_eu_product_adr.field_product_template__adr_label_ids
+msgid ""
+"The labels/placards (see 5.2.2.2 and 5.3.1.7) that have to be affixed to "
+"packages, containers, tank-containers, portable tanks, MEGCs and vehicles.)"
+msgstr ""
+"Етикетки/таблички (див. 5.2.2.2 і 5.3.1.7), які потрібно прикріплювати до "
+"пакувань, контейнерів, контейнерів-цистерн, переносних цистерн, MEGC і "
+"транспортних засобів.)"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3285
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3285_500g
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3285_5kg
+msgid "VANADIUM COMPOUND, N.O.S."
+msgstr "СПОЛУКА ВАНАДІЮ, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0286
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0287
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0369
+msgid "WARHEADS, ROCKET with bursting charge"
+msgstr "БОЙОВІ ЧАСТИНИ РАКЕТ із розривним зарядом"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3129
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3129_1L
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3129_500ml
+msgid "WATER-REACTIVE LIQUID, CORROSIVE, N.O.S."
+msgstr "КОРОЗІЙНА РІДИНА, ЩО РЕАГУЄ З ВОДОЮ, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3148
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3148_1L
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3148_500ml
+msgid "WATER-REACTIVE LIQUID, N.O.S."
+msgstr "РІДИНА, ЩО РЕАГУЄ З ВОДОЮ, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3130
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3130_1L
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3130_500ml
+msgid "WATER-REACTIVE LIQUID, TOXIC, N.O.S."
+msgstr "ТОКСИЧНА РІДИНА, ЩО РЕАГУЄ З ВОДОЮ, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3131
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3131_1kg
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3131_500g
+msgid "WATER-REACTIVE SOLID, CORROSIVE, N.O.S."
+msgstr "ТВЕРДА КОРОЗІЙНА РЕЧОВИНА, ЩО РЕАГУЄ З ВОДОЮ, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3132
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3132_1kg
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3132_500g
+msgid "WATER-REACTIVE SOLID, FLAMMABLE, N.O.S."
+msgstr "ТВЕРДА ЛЕГКОЗАЙМИСТА РЕЧОВИНА, ЩО РЕАГУЄ З ВОДОЮ, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2813
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2813_1kg
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2813_500g
+msgid "WATER-REACTIVE SOLID, N.O.S."
+msgstr "ТВЕРДА РЕЧОВИНА, ЩО РЕАГУЄ З ВОДОЮ, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3135_WS_4dot3/4dot2_274_P403_1
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3135_WS_4dot3/4dot2_274_P410/IBC05_2
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3135_WS_4dot3/4dot2_274_P410/IBC08_3
+msgid "WATER-REACTIVE SOLID, SELF-HEATING, N.O.S."
+msgstr "ТВЕРДА САМОЗІГРІВАЛЬНА РЕЧОВИНА, ЩО РЕАГУЄ З ВОДОЮ, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3134
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3134_1kg
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3134_500g
+msgid "WATER-REACTIVE SOLID, TOXIC, N.O.S."
+msgstr "ТВЕРДА ТОКСИЧНА РЕЧОВИНА, ЩО РЕАГУЄ З ВОДОЮ, Н.З.К."
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1436_WS_4dot3/4dot2_P403_1
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1436_WS_4dot3/4dot2_P410/IBC07_2
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1436_WS_4dot3/4dot2_P410/IBC08/R001_3
+msgid "ZINC POWDER or ZINC DUST"
+msgstr "ПОРОШОК ЦИНКУ або ЦИНКОВИЙ ПИЛ"
+
+#. module: l10n_eu_product_adr
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2008_S4_4dot2_524/540_P002/IBC08/LP02/R001_3
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2008_S4_4dot2_524/540_P404_0
+#: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2008_S4_4dot2_524/540_P410/IBC06_2
+msgid "ZIRCONIUM POWDER, DRY"
+msgstr "ПОРОШОК ЦИРКОНІЮ, СУХИЙ"

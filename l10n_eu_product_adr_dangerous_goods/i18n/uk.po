@@ -159,3 +159,23 @@ msgstr "Клас зберігання"
 #: model:ir.model.fields.selection,name:l10n_eu_product_adr_dangerous_goods.selection__product_product__envir_hazardous__yes
 msgid "Yes"
 msgstr "Так"
+
+#. module: l10n_eu_product_adr_dangerous_goods
+#: model:ir.model.fields,field_description:l10n_eu_product_adr_dangerous_goods.field_product_product__content_package
+msgid "Content Packaging"
+msgstr "Пакування вмісту"
+
+#. module: l10n_eu_product_adr_dangerous_goods
+#: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr_dangerous_goods.product_normal_form_view
+msgid "Dangerous Packaging"
+msgstr "Небезпечне пакування"
+
+#. module: l10n_eu_product_adr_dangerous_goods
+#: model:ir.model.fields,field_description:l10n_eu_product_adr_dangerous_goods.field_product_product__envir_hazardous
+msgid "Environmentally hazardous"
+msgstr "Екологічно небезпечний"
+
+#. module: l10n_eu_product_adr_dangerous_goods
+#: model:ir.model.fields,field_description:l10n_eu_product_adr_dangerous_goods.field_product_product__hazard_ind
+msgid "Hazard identification"
+msgstr "Ідентифікація небезпеки"
