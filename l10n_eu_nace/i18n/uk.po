@@ -34,3 +34,18 @@ msgstr "Відображувана назва"
 #: model_terms:ir.ui.view,arch_db:l10n_eu_nace.partner_industry_nace_wizard_view_form
 msgid "Import NACE industries"
 msgstr "Імпорт галузей NACE"
+
+#. module: l10n_eu_nace
+#: model_terms:ir.ui.view,arch_db:l10n_eu_nace.partner_industry_nace_wizard_view_form
+msgid "Cancel"
+msgstr "Скасувати"
+
+#. module: l10n_eu_nace
+#: model:ir.model.fields,field_description:l10n_eu_nace.field_res_partner_industry_eu_nace_wizard__write_uid
+msgid "Last Updated by"
+msgstr "Останнє оновлення ким"
+
+#. module: l10n_eu_nace
+#: model:ir.model.fields,field_description:l10n_eu_nace.field_res_partner_industry_eu_nace_wizard__write_date
+msgid "Last Updated on"
+msgstr "Останнє оновлення"

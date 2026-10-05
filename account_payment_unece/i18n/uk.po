@@ -17,3 +17,9 @@ msgstr ""
 #: model:ir.model.fields,field_description:account_payment_unece.field_account_payment_method__unece_code
 msgid "UNECE Code"
 msgstr "Код UNECE"
+
+#. module: account_payment_unece
+#: model:ir.model.fields.selection,name:account_payment_unece.selection__unece_code_list__type__payment_means
+#: model_terms:ir.ui.view,arch_db:account_payment_unece.unece_code_list_search
+msgid "Payment Means (UNCL 4461)"
+msgstr "Засоби платежу (UNCL 4461)"

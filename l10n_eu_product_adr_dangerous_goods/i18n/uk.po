@@ -103,3 +103,59 @@ msgstr "VOC у %"
 #: model:ir.model.fields,field_description:l10n_eu_product_adr_dangerous_goods.field_product_product__wgk_class_id
 msgid "Wgk Class"
 msgstr "Клас WGK"
+
+#. module: l10n_eu_product_adr_dangerous_goods
+#: model:ir.model.fields,field_description:l10n_eu_product_adr_dangerous_goods.field_product_product__flash_point
+msgid "Flash point(°C)"
+msgstr "Температура спалаху (°C)"
+
+#. module: l10n_eu_product_adr_dangerous_goods
+#: model:ir.model.fields,field_description:l10n_eu_product_adr_dangerous_goods.field_dangerous_uom__write_uid
+#: model:ir.model.fields,field_description:l10n_eu_product_adr_dangerous_goods.field_limited_amount__write_uid
+#: model:ir.model.fields,field_description:l10n_eu_product_adr_dangerous_goods.field_packaging_type__write_uid
+#: model:ir.model.fields,field_description:l10n_eu_product_adr_dangerous_goods.field_storage_class__write_uid
+#: model:ir.model.fields,field_description:l10n_eu_product_adr_dangerous_goods.field_storage_temp__write_uid
+#: model:ir.model.fields,field_description:l10n_eu_product_adr_dangerous_goods.field_wgk_class__write_uid
+msgid "Last Updated by"
+msgstr "Останнє оновлення ким"
+
+#. module: l10n_eu_product_adr_dangerous_goods
+#: model:ir.model.fields,field_description:l10n_eu_product_adr_dangerous_goods.field_dangerous_uom__write_date
+#: model:ir.model.fields,field_description:l10n_eu_product_adr_dangerous_goods.field_limited_amount__write_date
+#: model:ir.model.fields,field_description:l10n_eu_product_adr_dangerous_goods.field_packaging_type__write_date
+#: model:ir.model.fields,field_description:l10n_eu_product_adr_dangerous_goods.field_storage_class__write_date
+#: model:ir.model.fields,field_description:l10n_eu_product_adr_dangerous_goods.field_storage_temp__write_date
+#: model:ir.model.fields,field_description:l10n_eu_product_adr_dangerous_goods.field_wgk_class__write_date
+msgid "Last Updated on"
+msgstr "Останнє оновлення"
+
+#. module: l10n_eu_product_adr_dangerous_goods
+#: model:ir.model,name:l10n_eu_product_adr_dangerous_goods.model_limited_amount
+#: model:ir.model.fields,field_description:l10n_eu_product_adr_dangerous_goods.field_product_product__limited_amount_id
+msgid "Limited Amount"
+msgstr "Обмежена сума"
+
+#. module: l10n_eu_product_adr_dangerous_goods
+#: model:ir.model.fields.selection,name:l10n_eu_product_adr_dangerous_goods.selection__product_product__envir_hazardous__no
+msgid "No"
+msgstr "Ні"
+
+#. module: l10n_eu_product_adr_dangerous_goods
+#: model:ir.model.fields,field_description:l10n_eu_product_adr_dangerous_goods.field_product_product__packaging_group
+msgid "Packaging Group"
+msgstr "Група упаковки"
+
+#. module: l10n_eu_product_adr_dangerous_goods
+#: model:ir.model.fields,field_description:l10n_eu_product_adr_dangerous_goods.field_product_product__packaging_type_id
+msgid "Packaging Type"
+msgstr "Тип пакування"
+
+#. module: l10n_eu_product_adr_dangerous_goods
+#: model:ir.model.fields,field_description:l10n_eu_product_adr_dangerous_goods.field_product_product__storage_class_id
+msgid "Storage Class"
+msgstr "Клас зберігання"
+
+#. module: l10n_eu_product_adr_dangerous_goods
+#: model:ir.model.fields.selection,name:l10n_eu_product_adr_dangerous_goods.selection__product_product__envir_hazardous__yes
+msgid "Yes"
+msgstr "Так"

@@ -58,3 +58,27 @@ msgstr "Санітарний реєстр за категорією та скл�
 #: model:ir.model.fields,field_description:company_sanitary_registry.field_sanitary_registry_warehouse_category__warehouse_id
 msgid "Warehouse"
 msgstr "Склад"
+
+#. module: company_sanitary_registry
+#: model:ir.model.fields,field_description:company_sanitary_registry.field_sanitary_registry_warehouse_category__category_complete_name
+msgid "Complete Name"
+msgstr "Повна назва"
+
+#. module: company_sanitary_registry
+#: model:ir.model.fields,field_description:company_sanitary_registry.field_sanitary_registry__write_uid
+#: model:ir.model.fields,field_description:company_sanitary_registry.field_sanitary_registry_warehouse_category__write_uid
+msgid "Last Updated by"
+msgstr "Останнє оновлення ким"
+
+#. module: company_sanitary_registry
+#: model:ir.model.fields,field_description:company_sanitary_registry.field_sanitary_registry__write_date
+#: model:ir.model.fields,field_description:company_sanitary_registry.field_sanitary_registry_warehouse_category__write_date
+msgid "Last Updated on"
+msgstr "Останнє оновлення"
+
+#. module: company_sanitary_registry
+#: model:ir.model,name:company_sanitary_registry.model_sanitary_registry
+#: model:ir.model.fields,field_description:company_sanitary_registry.field_res_company__sanitary_registry_id
+#: model:ir.model.fields,field_description:company_sanitary_registry.field_sanitary_registry_warehouse_category__sanitary_registry_id
+msgid "Sanitary Registry"
+msgstr "Санітарний реєстр"

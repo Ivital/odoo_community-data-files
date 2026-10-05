@@ -147,3 +147,87 @@ msgstr "Транспорт"
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_goods__un_number
 msgid "UN Number"
 msgstr "Номер ООН"
+
+#. module: l10n_eu_product_adr
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_product__adr_goods_on_variants
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_template__adr_goods_on_variants
+msgid "Adr Goods On Variants"
+msgstr "ADR-вантажі у варіантах"
+
+#. module: l10n_eu_product_adr
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_goods__classification_code
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_product__adr_classification_code
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_template__adr_classification_code
+msgid "Classification Code"
+msgstr "Код класифікації"
+
+#. module: l10n_eu_product_adr
+#: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.adr_goods_view_search
+msgid "Group By"
+msgstr "Групувати за"
+
+#. module: l10n_eu_product_adr
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_class__write_uid
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_goods__write_uid
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_label__write_uid
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_packing_instruction__write_uid
+msgid "Last Updated by"
+msgstr "Останнє оновлення ким"
+
+#. module: l10n_eu_product_adr
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_class__write_date
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_goods__write_date
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_label__write_date
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_packing_instruction__write_date
+msgid "Last Updated on"
+msgstr "Останнє оновлення"
+
+#. module: l10n_eu_product_adr
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_goods__limited_quantity
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_product__adr_limited_quantity
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_template__adr_limited_quantity
+msgid "Limited Quantity"
+msgstr "Обмежена кількість"
+
+#. module: l10n_eu_product_adr
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_goods__limited_quantity_uom_id
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_product__adr_limited_quantity_uom_id
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_template__adr_limited_quantity_uom_id
+msgid "Limited Quantity UoM"
+msgstr "Одиниця вимірювання обмеженої кількості"
+
+#. module: l10n_eu_product_adr
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_goods__name
+#: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.adr_goods_view_form
+#: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.product_template_form_view
+msgid "Name and description"
+msgstr "Назва та опис"
+
+#. module: l10n_eu_product_adr
+#: model:ir.model.fields.selection,name:l10n_eu_product_adr.selection__adr_goods__transport_category__not_subject_to_adr
+#: model:ir.model.fields.selection,name:l10n_eu_product_adr.selection__adr_goods__tunnel_restriction_code__not_subject_to_adr
+msgid "Not subject to ADR"
+msgstr "Не підпадає під ADR"
+
+#. module: l10n_eu_product_adr
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_goods__packing_instruction_ids
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_product__adr_packing_instruction_ids
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_template__adr_packing_instruction_ids
+msgid "Packing Instructions"
+msgstr "Інструкції з пакування"
+
+#. module: l10n_eu_product_adr
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_goods__transport_category
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_product__adr_transport_category
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_template__adr_transport_category
+#: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.adr_goods_view_search
+msgid "Transport Category"
+msgstr "Категорія транспорту"
+
+#. module: l10n_eu_product_adr
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_goods__tunnel_restriction_code
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_product__adr_tunnel_restriction_code
+#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_template__adr_tunnel_restriction_code
+#: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.adr_goods_view_search
+msgid "Tunnel Restriction Code"
+msgstr "Код обмеження тунелю"

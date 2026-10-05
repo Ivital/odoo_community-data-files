@@ -65,3 +65,23 @@ msgstr "Тип"
 #: model:ir.ui.menu,name:base_unece.unece_code_list_menu
 msgid "UNECE Code Lists"
 msgstr "Списки кодів UNECE"
+
+#. module: base_unece
+#: model_terms:ir.ui.view,arch_db:base_unece.unece_code_list_search
+msgid "Group By"
+msgstr "Групувати за"
+
+#. module: base_unece
+#: model:ir.model.fields,field_description:base_unece.field_unece_code_list__write_uid
+msgid "Last Updated by"
+msgstr "Останнє оновлення ким"
+
+#. module: base_unece
+#: model:ir.model.fields,field_description:base_unece.field_unece_code_list__write_date
+msgid "Last Updated on"
+msgstr "Останнє оновлення"
+
+#. module: base_unece
+#: model_terms:ir.ui.view,arch_db:base_unece.unece_code_list_search
+msgid "Name or Code"
+msgstr "Назва або код"
